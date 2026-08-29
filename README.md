@@ -1,17 +1,14 @@
 # Kenji Mizuguchi
 
-TypeScript でプロダクトを作り、踏んだバグは本家に直して返す Web エンジニア。  
-Web engineer who ships TypeScript products and upstreams fixes.
+エンジニア。最近はチームリードなどをやっています。  
+Engineer. Lately also doing team lead work.
 
 Tokyo, Japan
 
 ## Featured OSS
 
-**[TanStack Router #8169](https://github.com/TanStack/router/pull/8169)** — route-scoped の `useMatch` / `useSearch` / `useParams` が `shouldThrow` を落としていたバグを、React / Solid / Vue 横断で修正してマージ。  
-Fixed route-scoped hooks dropping `shouldThrow` across React, Solid, and Vue.
-
-- Repro: [route-usematch-verify](https://github.com/mizukendesu/route-usematch-verify)
-- Write-up: [Zenn](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr)
+- [TanStack Router #8169](https://github.com/TanStack/router/pull/8169) — `shouldThrow` fix
+- [Write-up](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr) · [Repro](https://github.com/mizukendesu/route-usematch-verify)
 
 ## Focus
 
