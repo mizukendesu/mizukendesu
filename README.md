@@ -10,11 +10,6 @@ Tokyo, Japan
 - [TanStack Router #8169](https://github.com/TanStack/router/pull/8169) — `shouldThrow` fix · merged 2026-08-27
   - [Write-up](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr) · [Repro](https://github.com/mizukendesu/route-usematch-verify)
 
-## Focus
-
-本番プロダクトでフロントエンド・通知・運用改善を続けています。  
-I ship frontend, notifications, and operational improvements in production products.
-
 ## Writing
 
 - [TanStack Router のバグを踏み抜いて、起票からマージまでやった話](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr)
