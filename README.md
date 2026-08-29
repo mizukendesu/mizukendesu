@@ -7,8 +7,8 @@ Tokyo, Japan
 
 ## Featured OSS
 
-- [TanStack Router #8169](https://github.com/TanStack/router/pull/8169) — `shouldThrow` fix
-- [Write-up](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr) · [Repro](https://github.com/mizukendesu/route-usematch-verify)
+- [TanStack Router #8169](https://github.com/TanStack/router/pull/8169) — `shouldThrow` fix · merged 2026-08-27
+  - [Write-up](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr) · [Repro](https://github.com/mizukendesu/route-usematch-verify)
 
 ## Focus
 
