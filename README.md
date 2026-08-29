@@ -20,7 +20,14 @@ More on [Zenn](https://zenn.dev/mizukenvivid).
 
 ## Stack
 
-`TypeScript` · `React` · `Next.js` · `Expo` · `TanStack Router` · `tRPC` · `Drizzle` · `Inngest`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square&logo=reactrouter&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=000000)
+![Inngest](https://img.shields.io/badge/Inngest-5B5FFF?style=flat-square&logoColor=white)
 
 ## Contact
 
