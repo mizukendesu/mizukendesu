@@ -9,6 +9,7 @@ Tokyo, Japan
 
 - [TanStack Router #8169](https://github.com/TanStack/router/pull/8169) — `shouldThrow` fix · merged 2026-08-27
   - [Write-up](https://zenn.dev/mizukenvivid/articles/tanstack-router-shouldthrow-pr) · [Repro](https://github.com/mizukendesu/route-usematch-verify)
+- [YouTube MCP Server #4](https://github.com/pauling-ai/youtube-mcp-server/pull/4) — `youtube_update_video` status handling fix · merged 2026-09-03
 
 ## Writing
 
